@@ -1,2 +1,2 @@
-# Bindings | Aplicación ejecutable
-Actividad del ejercicio de Bindings
+# IMC | Aplicación ejecutable
+Actividad del ejercicio de IMC
